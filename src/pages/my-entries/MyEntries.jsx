@@ -1,0 +1,1 @@
+export default function MyEntries(){return <section className="surface"><h2>🎟️ My Purchases</h2><p className="muted">Real ticket purchase history will appear here after the backend is connected. The demo does not create ticket purchases.</p></section>}
